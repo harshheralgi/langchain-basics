@@ -45,7 +45,7 @@ Built a database-enabled ReAct agent capable of:
 
 - Python
 - LangChain
-- OpenAI API
+- Groq API
 - SQLite
 - UV Package Manager
 
